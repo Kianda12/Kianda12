@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... machine learning and AI
 - 📫 How to reach me ... @junenyakianda.gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Iam left handed
+- ⚡ Fun fact: ... I am left handed
 
 <!---
 Kianda12/Kianda12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
